@@ -34,7 +34,7 @@ Este script foi desenvolvido para extrair informações de perfis do Twitter, ut
 
 ### Capturas de Tela:
 
-(Inserir capturas de tela aqui)
+![Rodando](run.png)
 
 ### Colabore:
 
