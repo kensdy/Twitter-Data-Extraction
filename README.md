@@ -36,6 +36,13 @@ Este script foi desenvolvido para extrair informações de perfis do Twitter, ut
 
 ![Rodando](run.png)
 
+### Demonstração em Vídeo
+
+Assista a um vídeo demonstrativo do Script no YouTube:
+
+[![Demonstração do Programa](https://img.youtube.com/vi/gjW5WG1_APw/0.jpg)](https://www.youtube.com/watch?v=gjW5WG1_APw)
+
+
 ### Colabore:
 
 Se você encontrar problemas, ou deseja contribuir para a melhoria deste script, sinta-se à vontade para enviar pull requests. Toda contribuição é bem-vinda!
