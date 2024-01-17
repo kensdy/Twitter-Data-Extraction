@@ -2,6 +2,8 @@
 
 Este script foi desenvolvido para extrair informações de perfis do Twitter, utilizando como base o site [Twstalker](https://twstalker.com/).
 
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdytwi&label=Views&color=brightgreen)]([https://github.com/kensdy/Twitter-Data-Extraction](https://github.com/kensdy/Twitter-Data-Extraction))
+
 ### Dados Extraídos:
 
 - **Nome:**
@@ -41,6 +43,8 @@ Este script foi desenvolvido para extrair informações de perfis do Twitter, ut
 Assista a um vídeo demonstrativo do Script no YouTube:
 
 [![Demonstração do Programa](https://img.youtube.com/vi/gjW5WG1_APw/0.jpg)](https://www.youtube.com/watch?v=gjW5WG1_APw)
+
+Instalando e rodando o código
 
 
 ### Colabore:
